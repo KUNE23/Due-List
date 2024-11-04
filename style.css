@@ -1,0 +1,16 @@
+body {
+  background-color: gray;
+  color: WHITE;
+  }
+
+.list-group-item .btn{
+  float: right;
+  }
+strong {
+  font-size: 50px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
